@@ -28,3 +28,4 @@
 /Users/gogitakupatadze/RiderProjects/ExtremeCommerce/ExtremeCommerce/obj/Debug/net8.0/ExtremeCommerce.pdb
 /Users/gogitakupatadze/RiderProjects/ExtremeCommerce/ExtremeCommerce/obj/Debug/net8.0/ExtremeCommerce.genruntimeconfig.cache
 /Users/gogitakupatadze/RiderProjects/ExtremeCommerce/ExtremeCommerce/obj/Debug/net8.0/ref/ExtremeCommerce.dll
+/Users/gogitakupatadze/RiderProjects/ExtremeCommerce/ExtremeCommerce/obj/Debug/net8.0/ExtremeCommerce.sourcelink.json
